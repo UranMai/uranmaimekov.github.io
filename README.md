@@ -1,2 +1,2 @@
 # uranmaimekov.github.io
-Personal website
+Personal website 📚👨‍🔬🧬
