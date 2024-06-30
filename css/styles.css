@@ -60,8 +60,8 @@ body {
 
 
 .social-icon {
-    height: 4vh;
-    width: 4vh;
+    height: 5vh;
+    width: 5vh;
     border-radius: 50%;
     transition: transform 0.3s;
     /* Smooth hover effect */
@@ -194,3 +194,7 @@ body {
 .projects-list a:hover {
     color: #0056b3;
 }
+
+
+/* cv.html */
+
